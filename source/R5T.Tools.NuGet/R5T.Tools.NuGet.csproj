@@ -5,6 +5,7 @@
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Code.VisualStudio.Types\source\R5T.Code.VisualStudio.Types\R5T.Code.VisualStudio.Types.csproj" />
     <ProjectReference Include="..\..\..\R5T.NetStandard.IO.Paths\source\R5T.NetStandard.IO.Paths\R5T.NetStandard.IO.Paths.csproj" />
     <ProjectReference Include="..\..\..\R5T.NetStandard.OS\source\R5T.NetStandard.OS\R5T.NetStandard.OS.csproj" />
     <ProjectReference Include="..\..\..\R5T.Tools.NuGet.Types\source\R5T.Tools.NuGet.Types\R5T.Tools.NuGet.Types.csproj" />
